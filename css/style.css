@@ -1,0 +1,60 @@
+/* john's css */
+body{
+    font: padding "Lucida Grande", Arial, sans-serif;
+    font-size: 24px;
+    padding-top: 20px;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+h1 {
+    font-family: "Lucida Grande", Arial, sans-serif;
+    font-size: 64px;
+    text-align: center;
+    color: #FFFFFF;
+}
+h2 {
+    font-family: "Lucida Grande", Arial, sans-serif;
+    font-size: 30px;
+    text-shadow: 5px 5px 2px #808080;
+    color: #FFFFFF;
+}
+img {
+    display: block;
+    width: 525px;
+    margin-left: auto;
+    margin-right: auto;
+}
+div{
+    min-height: 150px;
+    padding: 25px;
+}
+#red{
+    text-align:right;
+    background-color: #ff0000;
+}
+#blue{
+    text-align:left;
+    background-color:#0000ff;
+}
+#yellow{
+    background-color:#ffff00;
+    text-align: right;
+}
+#yellow h2{
+    text-shadow: 5px 5px 2px #c7e2c7;
+    color: #000000;
+
+}
+#yellow p{
+    color: #000000;
+    
+}
+#green {
+    background-color: #008000;
+    text-align: left;
+}
+footer p {
+    text-align: right;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
