@@ -1,9 +1,14 @@
 /* john's css */
 body{
-    font: padding "Lucida Grande", sans-serif;
+    font: "Lucida Grande", sans-serif;
     font-size: 24px;
     background-color: #000000;
     color: #FFFFFF;
+}
+footer p{
+    text-align: right;
+    padding-right: 10px;
+    padding-bottom: 10px;
 }
 p{
     padding-top: 20px;
@@ -54,9 +59,4 @@ div{
 #green {
     background-color: #008000;
     text-align: left;
-}
-footer p {
-    text-align: right;
-    padding-bottom: 10px;
-    padding-right: 10px;
 }
